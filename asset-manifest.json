@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio-maker/static/css/main.d1b05096.chunk.css",
-    "main.js": "/portfolio-maker/static/js/main.61f73249.chunk.js",
-    "main.js.map": "/portfolio-maker/static/js/main.61f73249.chunk.js.map",
+    "main.js": "/portfolio-maker/static/js/main.3be4143b.chunk.js",
+    "main.js.map": "/portfolio-maker/static/js/main.3be4143b.chunk.js.map",
     "runtime-main.js": "/portfolio-maker/static/js/runtime-main.d5d6144d.js",
     "runtime-main.js.map": "/portfolio-maker/static/js/runtime-main.d5d6144d.js.map",
-    "static/js/2.45419c78.chunk.js": "/portfolio-maker/static/js/2.45419c78.chunk.js",
-    "static/js/2.45419c78.chunk.js.map": "/portfolio-maker/static/js/2.45419c78.chunk.js.map",
+    "static/js/2.14d40c4f.chunk.js": "/portfolio-maker/static/js/2.14d40c4f.chunk.js",
+    "static/js/2.14d40c4f.chunk.js.map": "/portfolio-maker/static/js/2.14d40c4f.chunk.js.map",
     "index.html": "/portfolio-maker/index.html",
-    "precache-manifest.f9bc5a56a80f240c23d464ab5b4b6f34.js": "/portfolio-maker/precache-manifest.f9bc5a56a80f240c23d464ab5b4b6f34.js",
+    "precache-manifest.6ec3e76bbdaf4dc6298529355c9d109e.js": "/portfolio-maker/precache-manifest.6ec3e76bbdaf4dc6298529355c9d109e.js",
     "service-worker.js": "/portfolio-maker/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/portfolio-maker/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.45419c78.chunk.js.LICENSE.txt": "/portfolio-maker/static/js/2.45419c78.chunk.js.LICENSE.txt",
+    "static/js/2.14d40c4f.chunk.js.LICENSE.txt": "/portfolio-maker/static/js/2.14d40c4f.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/portfolio-maker/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5d6144d.js",
-    "static/js/2.45419c78.chunk.js",
+    "static/js/2.14d40c4f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.61f73249.chunk.js"
+    "static/js/main.3be4143b.chunk.js"
   ]
 }
