@@ -7,8 +7,8 @@ class TextBox extends Component {
 
     render() {
         return(
-        <div>
-            cum funny
+        <div contentEditable="true" placeholder="Enter your text here">
+            
         </div>)
     }
 }
