@@ -1,0 +1,8 @@
+.textBox {
+    outline: solid black 2px;
+}
+
+.textBox:empty:before {
+    content: "Enter your text here";
+    color: gray
+}
