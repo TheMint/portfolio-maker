@@ -11,6 +11,7 @@ function App() {
         <img src="https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png" className="App-logo" alt="logo" />
 
         <Header/>
+        <TextBox/>
       </header>
     </div>
   );
