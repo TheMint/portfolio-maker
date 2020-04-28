@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class TextBox {
+class TextBox extends Component {
     constructor() {
         super()
     }
