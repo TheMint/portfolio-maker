@@ -1,4 +1,4 @@
-.textBox:not(:focus), .textBox:empty {
+.textBox:focus, .textBox:empty {
     outline: solid black 2px;
 }
 
