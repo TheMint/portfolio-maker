@@ -8,7 +8,7 @@ class TextBox extends Component {
     render() {
         return(
         <div>
-
+            cum funny
         </div>)
     }
 }
