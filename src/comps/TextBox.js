@@ -8,7 +8,6 @@ class TextBox extends Component {
     render() {
         return(
         <div contentEditable="true" placeholder="Enter your text here">
-            
         </div>)
     }
 }
