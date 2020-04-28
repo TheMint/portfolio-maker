@@ -1,24 +1,16 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Header from './comps/Header'
+import TextBox from './comps/TextBox'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src="https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png" className="App-logo" alt="logo" />
-        
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+        <Header/>
       </header>
     </div>
   );
