@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './TextBox.css'
 
 class TextBox extends Component {
     constructor() {
@@ -7,7 +8,7 @@ class TextBox extends Component {
 
     render() {
         return(
-        <div contentEditable="true" placeholder="Enter your text here">
+        <div contentEditable="true" className="textBox">
             
         </div>)
     }
